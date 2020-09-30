@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActionBarDemoKotlin</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="actionbardemo">ActionBarDemo</string>
+
+
+    <string name="delete">Delete</string>
+    <string name="about">About</string>
+    <string name="refresh">Refresh</string>
+    <string name="help">Help</string>
+
+
+</resources>
